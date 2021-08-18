@@ -1,5 +1,5 @@
 # Oscilating-Spring-Mass-System-with-Various-Dampings
-For the non-physicist / non-engineers:      
+For the non-physicists / non-engineers:      
 We consider the sum of forces acting on a spring-mass system in the direction of the bob's axial motion.     
 These are the friction force, spring force and newtons second law.     
 The sum of these forces can be written:  b * (velocty) - K * (position) = (mass)*(acceleration)     
